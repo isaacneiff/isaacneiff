@@ -6,10 +6,10 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,ts,bash)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,ts,bash)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,react,css,postgres,debian,git,github,linux,nodejs,npm,aws,html,nestjs,netlify,nextjs,nginx)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,css,postgres,debian,java,git,github,linux,kali,nodejs,npm,aws,html,nestjs,netlify,supabase,nextjs,nginx)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
